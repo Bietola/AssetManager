@@ -6,23 +6,23 @@
 #include <SFML/Graphics.hpp>
 
 /******************************************************************/
-/* meta function to determine if given type is a valid media type */
+/* meta function to determine if given type is a valid asset type */
 /******************************************************************/
-template <class T, class = void>
-struct is_media : std::false_type {};
+template <class Asset, class = void>
+struct is_asset : std::false_type {};
 
-// media object has to:
+// asset object has to:
 //     -) provide a valid loadFromFile(const char*) method
-template <class T>
-struct is_media<T,
+template <class Asset>
+struct is_asset<Asset,
     std::void_t<decltype(
-        std::declval<T>().loadFromFile(std::declval<const char*>())
+        std::declval<Asset>().loadFromFile(std::declval<const char*>())
     )>
 > : std::true_type {};
 
 // template variable alias
-template <class T>
-constexpr bool is_media_v = is_media<T>::value;
+template <class Asset>
+constexpr bool is_asset_v = is_asset<Asset>::value;
 
 /**********************/
 /* AssetManager class */
@@ -30,7 +30,7 @@ constexpr bool is_media_v = is_media<T>::value;
 template <class Asset>
 class AssetManager {
     // assert
-    static_assert(is_media_v<Asset>);
+    static_assert(is_asset_v<Asset>);
 
     public:
         // aliases
@@ -45,7 +45,7 @@ class AssetManager {
 		const Asset& operator[](const std::string& key) const { return get(key); }
 
     private:
-        // media container
+        // asset container
         std::map<std::string, Asset> mAssets;
 };
 
@@ -53,22 +53,22 @@ class AssetManager {
 /***********************************/
 /* ediaProvider function templates */
 /***********************************/
-// load generic media object into a media container
-template <class T>
-bool AssetManager<T>::load(std::initializer_list<AssetManager::StringPair> paths) {
+// load generic asset object into a asset container
+template <class Asset>
+bool AssetManager<Asset>::load(std::initializer_list<AssetManager::StringPair> paths) {
     // return value
     bool ret = true;
-    // attempt to initialize media one by one
+    // attempt to initialize asset one by one
     for(const auto& ele : paths) {
         // tmp
-        T media;
-        // load media
-        if(ret &= media.loadFromFile(ele.second)) {
-            // add media to media container
-            mAssets[ele.first] = media;
+        Asset asset;
+        // load asset
+        if(ret &= asset.loadFromFile(ele.second)) {
+            // add asset to asset container
+            mAssets[ele.first] = asset;
         }
         else{
-            // errors in the loading process should be handled by the media loading function
+            // errors in the loading process should be handled by the asset loading function
             ;
         }
     }
@@ -76,20 +76,20 @@ bool AssetManager<T>::load(std::initializer_list<AssetManager::StringPair> paths
     return ret;
 }
 
-// retrieve a generic media object from a container
-template <class T>
-const T& AssetManager<T>::getMedia(const std::string& key) const {
-    // attempt to retrieve media by key
+// retrieve a generic asset object from a container
+template <class Asset>
+const Asset& AssetManager<Asset>::get(const std::string& key) const {
+    // attempt to retrieve asset by key
     try{
         return mAssets.at(key);
     }
     catch(std::out_of_range){
         // terminate program
-        std::cout << "FATAL ERROR: trying to access nonexistent key through media provider (key = " << key << ")." << std::endl;
+        std::cout << "FATAL ERROR: trying to access nonexistent key through asset manager (key = " << key << ")." << std::endl;
         std::terminate();
     }
 }
-template <class T>
-const T* AssetManager<T>::getMediaPtr(const std::string& key) const {
-    return &getMedia(key);
+template <class Asset>
+const Asset* AssetManager<Asset>::getPtr(const std::string& key) const {
+    return &get(key);
 }
