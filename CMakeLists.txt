@@ -30,11 +30,21 @@ add_executable(Proj ${SRC})
 target_link_libraries(Proj ${SFML_LIBRARIES} ${SFML_DPENDENCIES})
 
 # copy resources from resource directories into build directory
-set (source "${CMAKE_SOURCE_DIR}/assets")
-set (destination "${CMAKE_CURRENT_BINARY_DIR}/assets")
+set(source "${CMAKE_SOURCE_DIR}/assets")
+set(destination "${CMAKE_CURRENT_BINARY_DIR}/assets")
 add_custom_command(
     TARGET Proj POST_BUILD
     COMMAND ${CMAKE_COMMAND} -E create_symlink ${source} ${destination} 
     DEPENDS ${destination}
-    COMMENT "symbolic link resources folder from ${source} => ${destination}"
+	COMMENT "Created symbolic link to assets folder at ${source} to ${destination}"
+)
+
+# copy compile commands into root directory for YCM
+set(source "${CMAKE_CURRENT_BINARY_DIR}/compile_commands.json")
+set(destination "${CMAKE_SOURCE_DIR}/")
+add_custom_command(
+	TARGET Proj POST_BUILD
+	COMMAND ${CMAKE_COMMAND} -E copy ${source} ${destination}
+	DEPENDS ${destination}
+	COMMENT "Copied compilation database from ${source} to ${destination}"
 )

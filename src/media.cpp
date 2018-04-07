@@ -4,15 +4,15 @@
 AssetManager<sf::Texture> gTextureManager;
 AssetManager<sf::Font> gFontManager;
 
+
 // load all media, return false on failure
 bool load_media(){
     // success/failure flag
     bool success = true;
 
     // load textures
-    success &= gTextureManager.load({
-        {"cat", "assets/cat.jpg"},
-    });
+    success = gTextureManager.load("cat.jpg");
+
 
     return success;
 }
