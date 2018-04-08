@@ -3,8 +3,6 @@
 #include <iostream>
 #include <unordered_map>
 
-#include <SFML/Graphics.hpp>
-
 template <class Asset>
 class AssetManager {
     public:
@@ -21,7 +19,7 @@ bool AssetManager<Asset>::load(const std::string& path) {
     bool success = false;
 
     if(Asset asset;
-       (success = asset.loadFromFile(path))) {
+       success = asset.loadFromFile(path)) {
         mAssets[path] = asset;
     }
     else {

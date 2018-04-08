@@ -17,7 +17,7 @@ int main() {
         }
         
         window.clear();
-        window.draw(sf::Sprite(gTextureManager.get("cat.jpg")));
+        window.draw(sf::Sprite(gTextureManager.get("assets/cat.jpg")));
         window.display();
     }
 

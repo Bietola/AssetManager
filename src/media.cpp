@@ -11,7 +11,7 @@ bool load_media(){
     bool success = true;
 
     // load textures
-    success = gTextureManager.load("cat.jpg");
+    success = gTextureManager.load("assets/cat.jpg");
 
 
     return success;
