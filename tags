@@ -38,7 +38,9 @@ ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	444
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	language:C++	file:
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	language:C++	file:
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	language:C++	file:
+Animal	snippets/5.cpp	/^struct Animal {$/;"	s	language:C++	file:
 AssetManager	headers/AssetManager.h	/^class AssetManager {$/;"	c	language:C++
+AssetManager	snippets/2.cpp	/^class AssetManager {$/;"	c	language:C++	file:
 CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/dincio\/code\/5min\/AssetManager\/code\/build$/;"	m	language:Make
 CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m	language:Make
 CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/dincio\/code\/5min\/AssetManager\/code$/;"	m	language:Make
@@ -282,9 +284,14 @@ C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	552;"	d	languag
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	555;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	557;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	559;"	d	language:C	file:
+Cat	snippets/5.cpp	/^struct Cat : public Animal {$/;"	s	language:C++	file:
+Cat	snippets/6.cpp	/^struct Cat {$/;"	s	language:C++	file:
 DEC	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	472;"	d	language:C	file:
 DEC	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	language:C++	file:
+Dog	snippets/5.cpp	/^struct Dog : public Animal {$/;"	s	language:C++	file:
+Dog	snippets/6.cpp	/^struct Dog {$/;"	s	language:C++	file:
 EQUALS	build/Makefile	/^EQUALS = =$/;"	m	language:Make
+Fox	snippets/7.cpp	/^struct Fox {$/;"	s	language:C++	file:
 HEX	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	483;"	d	language:C	file:
 HEX	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	language:C++	file:
 ID_VOID_MAIN	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	6;"	d	language:C	file:
@@ -375,12 +382,21 @@ STRINGIFY	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	l
 STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	308;"	d	language:C	file:
 STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	language:C++	file:
 SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m	language:Make
+U	snippets/17.cpp	/^    typedef typename std::remove_reference<T>::type U;$/;"	t	language:C++	struct:decay	file:
+call	snippets/15.cpp	/^struct call {$/;"	s	language:C++	file:
+call	snippets/15.cpp	/^struct call<F, T> {$/;"	s	language:C++	file:
+check	snippets/8.cpp	/^void check(const T& t, const T& s) {$/;"	f	language:C++
 const	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	10;"	d	language:C	file:
+decay	snippets/17.cpp	/^struct decay {$/;"	s	language:C++	file:
+endl	snippets/14.cpp	/^std::cout << "x is an int of value " << x << std::endl;$/;"	m	language:C++	class:std	file:
 features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v	language:C
 features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	language:C++
+font	snippets/1.java	/^BitmapFont font = manager.get("data\/myfont.fnt", BitmapFont.class);$/;"	Ž	language:Java
 gFontManager	src/media.cpp	/^AssetManager<sf::Font> gFontManager;$/;"	v	language:C++
 gTextureManager	src/media.cpp	/^AssetManager<sf::Texture> gTextureManager;$/;"	v	language:C++
 get	headers/AssetManager.h	/^const Asset& AssetManager<Asset>::get(const std::string& key) const {$/;"	f	language:C++	class:AssetManager
+get	snippets/3.cpp	/^const Asset& AssetManager<Asset>::get(const std::string& key) const {$/;"	f	language:C++	class:AssetManager
+identity	snippets/15.cpp	/^struct identity {$/;"	s	language:C++	file:
 info_arch	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C
 info_arch	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C++
 info_compiler	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C
@@ -399,18 +415,62 @@ info_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const
 info_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	language:C++
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	language:C
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	language:C++
+integral_constant	snippets/19.cpp	/^struct integral_constant {$/;"	s	language:C++	file:
 is_asset	headers/AssetManager.h	/^struct is_asset : std::false_type {};$/;"	s	language:C++
 is_asset	headers/AssetManager.h	/^struct is_asset<T,$/;"	s	language:C++
+is_asset	snippets/11.cpp	/^struct is_asset : std::false_type {};$/;"	s	language:C++	file:
+is_asset	snippets/11.cpp	/^struct is_asset<T,$/;"	s	language:C++	file:
+is_asset	snippets/18.cpp	/^struct is_asset : std::false_type {};$/;"	s	language:C++	file:
+is_asset	snippets/18.cpp	/^struct is_asset<T,$/;"	s	language:C++	file:
 is_asset_v	headers/AssetManager.h	/^constexpr bool is_asset_v = is_asset<T>::value;$/;"	v	language:C++
+is_asset_v	snippets/11.cpp	/^constexpr bool is_asset_v = is_asset<T>::value;$/;"	v	language:C++
+is_zero	snippets/22.cpp	/^struct is_zero : std::false_type {};$/;"	s	language:C++	file:
+is_zero	snippets/22.cpp	/^struct is_zero<0> : std::true_type {};$/;"	s	language:C++	file:
+is_zero	snippets/23.cpp	/^struct is_zero {$/;"	s	language:C++	file:
+is_zero	snippets/23.cpp	/^struct is_zero<0> {$/;"	s	language:C++	file:
 load	headers/AssetManager.h	/^bool AssetManager<Asset>::load(const std::string& path) {$/;"	f	language:C++	class:AssetManager
+load	snippets/3.cpp	/^bool AssetManager<Asset>::load(const std::string& path) {$/;"	f	language:C++	class:AssetManager
 load_media	src/media.cpp	/^bool load_media(){$/;"	f	language:C++
 mAssets	headers/AssetManager.h	/^        std::unordered_map<std::string, Asset> mAssets;$/;"	m	language:C++	class:AssetManager
+mAssets	snippets/2.cpp	/^        std::unordered_map<std::string, Asset> mAssets;$/;"	m	language:C++	class:AssetManager	file:
 main	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f	language:C
 main	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	language:C
 main	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	language:C++
 main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C
 main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C++
+main	snippets/13.cpp	/^int main() {$/;"	f	language:C++
+main	snippets/15.cpp	/^int main() {$/;"	f	language:C++
+main	snippets/test/main.cpp	/^int main() {$/;"	f	language:C++
 main	src/main.cpp	/^int main() {$/;"	f	language:C++
+makeSound	snippets/6.cpp	/^    std::string makeSound() const {$/;"	f	language:C++	struct:Cat
+makeSound	snippets/6.cpp	/^    std::string makeSound() const {$/;"	f	language:C++	struct:Dog
+makeSound	snippets/6.cpp	/^std::string makeSound(const Animal& animal) {$/;"	f	language:C++
+makeSound	snippets/7.cpp	/^    const char* makeSound() {$/;"	f	language:C++	struct:Fox
+manager	snippets/1.java	/^AssetManager manager = new AssetManager();$/;"	Ž	language:Java
+manager	snippets/4.cpp	/^AssetManager<int> manager;$/;"	v	language:C++
+manager	snippets/9.cpp	/^AssetManager<int> manager;$/;"	v	language:C++
+plus_one	snippets/12.cpp	/^struct plus_one {$/;"	s	language:C++	file:
+plus_one	snippets/20.cpp	/^struct plus_one :$/;"	s	language:C++	file:
+plus_one	snippets/test/main.cpp	/^struct plus_one :$/;"	s	language:C++	file:
 qnxnto	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C
 qnxnto	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C++
+remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer                    {typedef T type;};$/;"	s	language:C++	file:
+remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const volatile> {typedef T type;};$/;"	s	language:C++	file:
+remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const>          {typedef T type;};$/;"	s	language:C++	file:
+remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* volatile>       {typedef T type;};$/;"	s	language:C++	file:
+remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T*>                {typedef T type;};$/;"	s	language:C++	file:
+tex	snippets/1.java	/^Texture tex = manager.get("data\/mytexture.png", Texture.class);$/;"	Ž	language:Java
+type	snippets/16.cpp	/^template< class T > struct remove_pointer                    {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
+type	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const volatile> {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
+type	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const>          {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
+type	snippets/16.cpp	/^template< class T > struct remove_pointer<T* volatile>       {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
+type	snippets/16.cpp	/^template< class T > struct remove_pointer<T*>                {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
+type	snippets/17.cpp	/^    >::type type;$/;"	t	language:C++	struct:decay	file:
+value	snippets/12.cpp	/^    static const int value = num + 1;$/;"	m	language:C++	struct:plus_one	file:
+value	snippets/19.cpp	/^    static constexpr T value = v;$/;"	m	language:C++	struct:integral_constant	file:
+value	snippets/23.cpp	/^    static constexpr bool value = false;$/;"	m	language:C++	struct:is_zero	file:
+value	snippets/23.cpp	/^    static constexpr bool value = true;$/;"	m	language:C++	struct:is_zero	file:
 volatile	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	11;"	d	language:C	file:
+x	snippets/14.cpp	/^typename std::remove_pointer<int*>::type x = 10;$/;"	v	language:C++
+x	snippets/24.cpp	/^typename std::remove_pointer<int*>::type x = 5;$/;"	v	language:C++
+x	snippets/25.cpp	/^std::remove_pointer_t<int*> x = 10;$/;"	v	language:C++
