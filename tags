@@ -285,7 +285,6 @@ C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	559;"	d	languag
 DEC	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	472;"	d	language:C	file:
 DEC	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	language:C++	file:
 EQUALS	build/Makefile	/^EQUALS = =$/;"	m	language:Make
-FlagsForFile	headers/.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	f	language:Python
 HEX	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	483;"	d	language:C	file:
 HEX	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	language:C++	file:
 ID_VOID_MAIN	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	6;"	d	language:C	file:
@@ -400,6 +399,9 @@ info_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const
 info_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	language:C++
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	language:C
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	language:C++
+is_asset	headers/AssetManager.h	/^struct is_asset : std::false_type {};$/;"	s	language:C++
+is_asset	headers/AssetManager.h	/^struct is_asset<T,$/;"	s	language:C++
+is_asset_v	headers/AssetManager.h	/^constexpr bool is_asset_v = is_asset<T>::value;$/;"	v	language:C++
 load	headers/AssetManager.h	/^bool AssetManager<Asset>::load(const std::string& path) {$/;"	f	language:C++	class:AssetManager
 load_media	src/media.cpp	/^bool load_media(){$/;"	f	language:C++
 mAssets	headers/AssetManager.h	/^        std::unordered_map<std::string, Asset> mAssets;$/;"	m	language:C++	class:AssetManager
