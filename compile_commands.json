@@ -1,12 +1,12 @@
 [
 {
-  "directory": "/home/dincio/code/5min/AssetManager/code/build",
-  "command": "/usr/bin/c++   -I/home/dincio/code/5min/AssetManager/code/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/5min/AssetManager/code/src/main.cpp",
-  "file": "/home/dincio/code/5min/AssetManager/code/src/main.cpp"
+  "directory": "/home/dincio/code/5min/asset_manager/code/build",
+  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/5min/asset_manager/code/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/5min/asset_manager/code/src/main.cpp",
+  "file": "/home/dincio/code/5min/asset_manager/code/src/main.cpp"
 },
 {
-  "directory": "/home/dincio/code/5min/AssetManager/code/build",
-  "command": "/usr/bin/c++   -I/home/dincio/code/5min/AssetManager/code/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/media.cpp.o -c /home/dincio/code/5min/AssetManager/code/src/media.cpp",
-  "file": "/home/dincio/code/5min/AssetManager/code/src/media.cpp"
+  "directory": "/home/dincio/code/5min/asset_manager/code/build",
+  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/5min/asset_manager/code/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/media.cpp.o -c /home/dincio/code/5min/asset_manager/code/src/media.cpp",
+  "file": "/home/dincio/code/5min/asset_manager/code/src/media.cpp"
 }
 ]
