@@ -38,12 +38,49 @@ ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	444
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	language:C++	file:
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	language:C++	file:
 ARCHITECTURE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	416;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	419;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	422;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	425;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	429;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	431;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	433;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	437;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	440;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	443;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	448;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	451;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	454;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	459;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	462;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	465;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	468;"	d	language:C	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	404;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	407;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	410;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	414;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	416;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	418;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	422;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	425;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	428;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	433;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	436;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	439;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	444;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	447;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	450;"	d	language:C++	file:
+ARCHITECTURE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	453;"	d	language:C++	file:
 Animal	snippets/5.cpp	/^struct Animal {$/;"	s	language:C++	file:
 AssetManager	headers/AssetManager.h	/^class AssetManager {$/;"	c	language:C++
 AssetManager	snippets/2.cpp	/^class AssetManager {$/;"	c	language:C++	file:
 CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/dincio\/code\/5min\/AssetManager\/code\/build$/;"	m	language:Make
+CMAKE_BINARY_DIR	snippets/test/build/Makefile	/^CMAKE_BINARY_DIR = \/home\/dincio\/code\/5min\/AssetManager\/snippets\/test\/build$/;"	m	language:Make
 CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m	language:Make
+CMAKE_COMMAND	snippets/test/build/Makefile	/^CMAKE_COMMAND = \/usr\/local\/bin\/cmake$/;"	m	language:Make
 CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/dincio\/code\/5min\/AssetManager\/code$/;"	m	language:Make
+CMAKE_SOURCE_DIR	snippets/test/build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/dincio\/code\/5min\/AssetManager\/snippets\/test$/;"	m	language:Make
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	101;"	d	language:C	file:
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	108;"	d	language:C	file:
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	115;"	d	language:C	file:
@@ -104,8 +141,70 @@ COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	language:C++	file:
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	language:C++	file:
 COMPILER_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	101;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	108;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	115;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	122;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	129;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	137;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	142;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	149;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	152;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	155;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	158;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	161;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	176;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	190;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	19;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	200;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	218;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	227;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	236;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	251;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	264;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	282;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	285;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	288;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	42;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	50;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	56;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	62;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	71;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	80;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	94;"	d	language:C	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	198;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	225;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	267;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	270;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	273;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	language:C++	file:
+COMPILER_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	language:C++	file:
 COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	232;"	d	language:C	file:
 COMPILER_VERSION_INTERNAL	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	language:C++	file:
+COMPILER_VERSION_INTERNAL	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	232;"	d	language:C	file:
+COMPILER_VERSION_INTERNAL	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	230;"	d	language:C++	file:
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	103;"	d	language:C	file:
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	110;"	d	language:C	file:
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	117;"	d	language:C	file:
@@ -162,6 +261,62 @@ COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	language:C++	file:
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	language:C++	file:
 COMPILER_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	103;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	110;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	117;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	124;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	130;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	138;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	144;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	165;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	180;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	191;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	202;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	221;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	229;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	239;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	244;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	24;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	253;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	258;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	267;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	272;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	43;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	51;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	58;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	64;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	73;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	83;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	88;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	96;"	d	language:C	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	186;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	188;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	200;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	219;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	237;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	252;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	language:C++	file:
+COMPILER_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	language:C++	file:
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	104;"	d	language:C	file:
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	111;"	d	language:C	file:
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	118;"	d	language:C	file:
@@ -217,6 +372,61 @@ COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	language:C++	file:
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	language:C++	file:
 COMPILER_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	104;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	111;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	118;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	125;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	131;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	139;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	145;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	166;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	181;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	193;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	203;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	222;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	230;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	240;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	245;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	254;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	259;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	25;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	268;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	273;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	44;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	52;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	59;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	65;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	74;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	84;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	89;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	97;"	d	language:C	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	191;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	258;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	language:C++	file:
+COMPILER_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	language:C++	file:
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	105;"	d	language:C	file:
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	112;"	d	language:C	file:
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	119;"	d	language:C	file:
@@ -271,30 +481,103 @@ COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	language:C++	file:
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	language:C++	file:
 COMPILER_VERSION_PATCH	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	105;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	112;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	119;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	126;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	133;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	146;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	167;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	182;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	196;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	207;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	210;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	223;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	231;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	241;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	246;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	255;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	260;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	269;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	274;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	27;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	29;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	46;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	53;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	67;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	76;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	85;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	90;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	98;"	d	language:C	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	254;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	language:C++	file:
+COMPILER_VERSION_PATCH	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	language:C++	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	173;"	d	language:C	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	214;"	d	language:C	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	33;"	d	language:C	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	language:C++	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	language:C++	file:
 COMPILER_VERSION_TWEAK	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	173;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	214;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	33;"	d	language:C	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	language:C++	file:
+COMPILER_VERSION_TWEAK	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	language:C++	file:
 CXX_STD	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	language:C++	file:
 CXX_STD	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	language:C++	file:
+CXX_STD	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	534;"	d	language:C++	file:
+CXX_STD	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	536;"	d	language:C++	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	550;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	552;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	555;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	557;"	d	language:C	file:
 C_DIALECT	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	559;"	d	language:C	file:
+C_DIALECT	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	550;"	d	language:C	file:
+C_DIALECT	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	552;"	d	language:C	file:
+C_DIALECT	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	555;"	d	language:C	file:
+C_DIALECT	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	557;"	d	language:C	file:
+C_DIALECT	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	559;"	d	language:C	file:
 Cat	snippets/5.cpp	/^struct Cat : public Animal {$/;"	s	language:C++	file:
 Cat	snippets/6.cpp	/^struct Cat {$/;"	s	language:C++	file:
 DEC	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	472;"	d	language:C	file:
 DEC	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	language:C++	file:
+DEC	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	472;"	d	language:C	file:
+DEC	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	457;"	d	language:C++	file:
 Dog	snippets/5.cpp	/^struct Dog : public Animal {$/;"	s	language:C++	file:
 Dog	snippets/6.cpp	/^struct Dog {$/;"	s	language:C++	file:
 EQUALS	build/Makefile	/^EQUALS = =$/;"	m	language:Make
+EQUALS	snippets/test/build/Makefile	/^EQUALS = =$/;"	m	language:Make
 Fox	snippets/7.cpp	/^struct Fox {$/;"	s	language:C++	file:
 HEX	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	483;"	d	language:C	file:
 HEX	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	language:C++	file:
+HEX	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	483;"	d	language:C	file:
+HEX	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	468;"	d	language:C++	file:
 ID_VOID_MAIN	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	6;"	d	language:C	file:
+ID_VOID_MAIN	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	6;"	d	language:C	file:
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	313;"	d	language:C	file:
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	316;"	d	language:C	file:
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	319;"	d	language:C	file:
@@ -357,41 +640,131 @@ PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	language:C++	file:
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	language:C++	file:
 PLATFORM_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	313;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	316;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	319;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	322;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	325;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	328;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	331;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	334;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	337;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	340;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	343;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	346;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	349;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	352;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	355;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	358;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	361;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	364;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	367;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	370;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	373;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	376;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	379;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	382;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	385;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	389;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	392;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	395;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	398;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	401;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	405;"	d	language:C	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	298;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	301;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	304;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	307;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	310;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	316;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	319;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	322;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	325;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	331;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	334;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	337;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	340;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	343;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	346;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	349;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	352;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	355;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	358;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	361;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	374;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	377;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	383;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	386;"	d	language:C++	file:
+PLATFORM_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	390;"	d	language:C++	file:
 RM	build/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m	language:Make
+RM	snippets/test/build/Makefile	/^RM = \/usr\/local\/bin\/cmake -E remove -f$/;"	m	language:Make
 SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m	language:Make
+SHELL	snippets/test/build/Makefile	/^SHELL = \/bin\/sh$/;"	m	language:Make
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	163;"	d	language:C	file:
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	178;"	d	language:C	file:
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	21;"	d	language:C	file:
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	language:C++	file:
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	language:C++	file:
 SIMULATE_ID	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	language:C++	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	163;"	d	language:C	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	178;"	d	language:C	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	21;"	d	language:C	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	language:C++	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	language:C++	file:
+SIMULATE_ID	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	language:C++	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	170;"	d	language:C	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	185;"	d	language:C	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	37;"	d	language:C	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	language:C++	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	language:C++	file:
 SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	170;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	185;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	37;"	d	language:C	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	language:C++	file:
+SIMULATE_VERSION_MAJOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	language:C++	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	171;"	d	language:C	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	186;"	d	language:C	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	38;"	d	language:C	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	language:C++	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	language:C++	file:
 SIMULATE_VERSION_MINOR	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	171;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	186;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	38;"	d	language:C	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	language:C++	file:
+SIMULATE_VERSION_MINOR	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	language:C++	file:
 STRINGIFY	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	309;"	d	language:C	file:
 STRINGIFY	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	language:C++	file:
+STRINGIFY	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	309;"	d	language:C	file:
+STRINGIFY	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	language:C++	file:
 STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	308;"	d	language:C	file:
 STRINGIFY_HELPER	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	language:C++	file:
+STRINGIFY_HELPER	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	308;"	d	language:C	file:
+STRINGIFY_HELPER	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	293;"	d	language:C++	file:
 SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m	language:Make
+SUFFIXES	snippets/test/build/Makefile	/^SUFFIXES =$/;"	m	language:Make
 U	snippets/17.cpp	/^    typedef typename std::remove_reference<T>::type U;$/;"	t	language:C++	struct:decay	file:
 call	snippets/15.cpp	/^struct call {$/;"	s	language:C++	file:
 call	snippets/15.cpp	/^struct call<F, T> {$/;"	s	language:C++	file:
 check	snippets/8.cpp	/^void check(const T& t, const T& s) {$/;"	f	language:C++
 const	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	10;"	d	language:C	file:
+const	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	10;"	d	language:C	file:
 decay	snippets/17.cpp	/^struct decay {$/;"	s	language:C++	file:
 endl	snippets/14.cpp	/^std::cout << "x is an int of value " << x << std::endl;$/;"	m	language:C++	class:std	file:
 features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v	language:C
 features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	language:C++
-font	snippets/1.java	/^BitmapFont font = manager.get("data\/myfont.fnt", BitmapFont.class);$/;"	Ž	language:Java
+features	snippets/test/build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v	language:C
+features	snippets/test/build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	language:C++
+font	snippets/1.java	/^BitmapFont font = manager.get("data\/myfont.fnt", BitmapFont.class);$/;"	ý	language:Java
 gFontManager	src/media.cpp	/^AssetManager<sf::Font> gFontManager;$/;"	v	language:C++
 gTextureManager	src/media.cpp	/^AssetManager<sf::Texture> gTextureManager;$/;"	v	language:C++
 get	headers/AssetManager.h	/^const Asset& AssetManager<Asset>::get(const std::string& key) const {$/;"	f	language:C++	class:AssetManager
@@ -399,22 +772,40 @@ get	snippets/3.cpp	/^const Asset& AssetManager<Asset>::get(const std::string& ke
 identity	snippets/15.cpp	/^struct identity {$/;"	s	language:C++	file:
 info_arch	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C
 info_arch	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C++
+info_arch	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C
+info_arch	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	language:C++
 info_compiler	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C
 info_compiler	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C++
+info_compiler	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C
+info_compiler	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	language:C++
 info_cray	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C
 info_cray	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C++
+info_cray	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C
+info_cray	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	language:C++
 info_language_dialect_default	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	language:C
 info_language_dialect_default	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	language:C++
+info_language_dialect_default	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default =$/;"	v	language:C
+info_language_dialect_default	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	language:C++
 info_platform	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C
 info_platform	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C++
+info_platform	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C
+info_platform	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	language:C++
 info_simulate	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C
 info_simulate	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C++
+info_simulate	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C
+info_simulate	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	language:C++
 info_simulate_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	language:C
 info_simulate_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	language:C++
+info_simulate_version	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	language:C
+info_simulate_version	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	language:C++
 info_version	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	language:C
 info_version	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	language:C++
+info_version	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	language:C
+info_version	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	language:C++
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	language:C
 info_version_internal	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	language:C++
+info_version_internal	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	language:C
+info_version_internal	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	language:C++
 integral_constant	snippets/19.cpp	/^struct integral_constant {$/;"	s	language:C++	file:
 is_asset	headers/AssetManager.h	/^struct is_asset : std::false_type {};$/;"	s	language:C++
 is_asset	headers/AssetManager.h	/^struct is_asset<T,$/;"	s	language:C++
@@ -428,6 +819,10 @@ is_zero	snippets/22.cpp	/^struct is_zero : std::false_type {};$/;"	s	language:C+
 is_zero	snippets/22.cpp	/^struct is_zero<0> : std::true_type {};$/;"	s	language:C++	file:
 is_zero	snippets/23.cpp	/^struct is_zero {$/;"	s	language:C++	file:
 is_zero	snippets/23.cpp	/^struct is_zero<0> {$/;"	s	language:C++	file:
+is_zero	snippets/test/src/main.cpp	/^struct is_zero : std::false_type {};$/;"	s	language:C++	file:
+is_zero	snippets/test/src/main.cpp	/^struct is_zero<0> : std::true_type {};$/;"	s	language:C++	file:
+is_zero_v	snippets/27.cpp	/^bool is_zero_v = is_zero<T>::value;$/;"	v	language:C++
+is_zero_v	snippets/test/src/main.cpp	/^bool is_zero_v = is_zero<num>::value;$/;"	v	language:C++
 load	headers/AssetManager.h	/^bool AssetManager<Asset>::load(const std::string& path) {$/;"	f	language:C++	class:AssetManager
 load	snippets/3.cpp	/^bool AssetManager<Asset>::load(const std::string& path) {$/;"	f	language:C++	class:AssetManager
 load_media	src/media.cpp	/^bool load_media(){$/;"	f	language:C++
@@ -440,26 +835,32 @@ main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)
 main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C++
 main	snippets/13.cpp	/^int main() {$/;"	f	language:C++
 main	snippets/15.cpp	/^int main() {$/;"	f	language:C++
-main	snippets/test/main.cpp	/^int main() {$/;"	f	language:C++
+main	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f	language:C
+main	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	language:C
+main	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	language:C++
+main	snippets/test/build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C
+main	snippets/test/build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	language:C++
+main	snippets/test/src/main.cpp	/^int main() {$/;"	f	language:C++
 main	src/main.cpp	/^int main() {$/;"	f	language:C++
 makeSound	snippets/6.cpp	/^    std::string makeSound() const {$/;"	f	language:C++	struct:Cat
 makeSound	snippets/6.cpp	/^    std::string makeSound() const {$/;"	f	language:C++	struct:Dog
 makeSound	snippets/6.cpp	/^std::string makeSound(const Animal& animal) {$/;"	f	language:C++
 makeSound	snippets/7.cpp	/^    const char* makeSound() {$/;"	f	language:C++	struct:Fox
-manager	snippets/1.java	/^AssetManager manager = new AssetManager();$/;"	Ž	language:Java
+manager	snippets/1.java	/^AssetManager manager = new AssetManager();$/;"	ý	language:Java
 manager	snippets/4.cpp	/^AssetManager<int> manager;$/;"	v	language:C++
 manager	snippets/9.cpp	/^AssetManager<int> manager;$/;"	v	language:C++
 plus_one	snippets/12.cpp	/^struct plus_one {$/;"	s	language:C++	file:
 plus_one	snippets/20.cpp	/^struct plus_one :$/;"	s	language:C++	file:
-plus_one	snippets/test/main.cpp	/^struct plus_one :$/;"	s	language:C++	file:
 qnxnto	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C
 qnxnto	build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C++
+qnxnto	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C
+qnxnto	snippets/test/build/CMakeFiles/3.10.0/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	language:C++
 remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer                    {typedef T type;};$/;"	s	language:C++	file:
 remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const volatile> {typedef T type;};$/;"	s	language:C++	file:
 remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const>          {typedef T type;};$/;"	s	language:C++	file:
 remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T* volatile>       {typedef T type;};$/;"	s	language:C++	file:
 remove_pointer	snippets/16.cpp	/^template< class T > struct remove_pointer<T*>                {typedef T type;};$/;"	s	language:C++	file:
-tex	snippets/1.java	/^Texture tex = manager.get("data\/mytexture.png", Texture.class);$/;"	Ž	language:Java
+tex	snippets/1.java	/^Texture tex = manager.get("data\/mytexture.png", Texture.class);$/;"	ý	language:Java
 type	snippets/16.cpp	/^template< class T > struct remove_pointer                    {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
 type	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const volatile> {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
 type	snippets/16.cpp	/^template< class T > struct remove_pointer<T* const>          {typedef T type;};$/;"	t	language:C++	struct:remove_pointer	file:
@@ -471,6 +872,7 @@ value	snippets/19.cpp	/^    static constexpr T value = v;$/;"	m	language:C++	str
 value	snippets/23.cpp	/^    static constexpr bool value = false;$/;"	m	language:C++	struct:is_zero	file:
 value	snippets/23.cpp	/^    static constexpr bool value = true;$/;"	m	language:C++	struct:is_zero	file:
 volatile	build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	11;"	d	language:C	file:
+volatile	snippets/test/build/CMakeFiles/3.10.0/CompilerIdC/CMakeCCompilerId.c	11;"	d	language:C	file:
 x	snippets/14.cpp	/^typename std::remove_pointer<int*>::type x = 10;$/;"	v	language:C++
 x	snippets/24.cpp	/^typename std::remove_pointer<int*>::type x = 5;$/;"	v	language:C++
 x	snippets/25.cpp	/^std::remove_pointer_t<int*> x = 10;$/;"	v	language:C++
